@@ -1,0 +1,2 @@
+def lemon():
+    print('Lemonade')
